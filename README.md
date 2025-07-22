@@ -80,4 +80,4 @@ This repository presents the simulation and performance analysis of a **22 kWp
 
 Designed and simulated by **Gani Aksöz**, Electrical & Electronics Engineering Student  
 Date: July 2025  
-Tool: **PVsyst v7.4.8, AutoCAD 2025**
+Tools: **PVsyst v7.4.8, AutoCAD 2025, Excel**
