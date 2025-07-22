@@ -61,7 +61,7 @@ This repository presents the simulation and performance analysis of a **22 kWp
 ## 📁 Included Files
 
 - 📄 `20kW_Project_Report.pdf` – Full PVsyst simulation report
-- 🖼️ `pv_layout.dwg` – PV module layout (string diagram or 3D view)
+- 🖼️ `pv_layout.dwg` – PV module layout 
 - 📊 `monthly_output.xlsx` – Monthly energy production table and charts
 - 📈 `system_specs.xlsx` – Design and performance summary table
 
